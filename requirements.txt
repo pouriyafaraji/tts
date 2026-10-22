@@ -1,0 +1,17 @@
+piper-tts
+soundfile
+librosa
+praat-parselmouth
+hazm
+gradio
+scikit-learn
+pandas
+matplotlib
+scipy
+numpy
+datasets
+transformers
+torchaudio
+unidecode
+pydub
+accelerate
